@@ -8,6 +8,12 @@
 
 Http client interface and supporting trait
 
+## Installation
+
+```bash
+composer require brokeyourbike/http-client
+```
+
 ## Usage
 
 ```php
