@@ -1,0 +1,26 @@
+{
+    "name": "brokeyourbike/http-client",
+    "description": "Http client interface and supporting trait",
+    "type": "library",
+    "license": "MPL-2.0",
+    "autoload": {
+        "psr-4": {
+            "BrokeYourBike\\HttpClient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ivan Stasiuk",
+            "email": "brokeyourbike@gmail.com",
+            "homepage": "https://github.com/brokeyourbike"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.4|^8.0",
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "require-dev": {
+        "bamarni/composer-bin-plugin": "^1.4"
+    }
+}
