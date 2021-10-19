@@ -22,5 +22,6 @@
     },
     "require-dev": {
         "bamarni/composer-bin-plugin": "^1.4"
-    }
+    },
+    "version": "1.0.0"
 }
