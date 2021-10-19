@@ -1,5 +1,17 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/brokeyourbike/http-client/compare/v1.0.0...v1.0.1) (2021-10-19)
+
+
+### Bug Fixes
+
+* use less specific version of `guzzle` ([e56286c](https://www.github.com/brokeyourbike/http-client/commit/e56286ca051a6fdad1224686e330c3bf79086756))
+
+
+### Miscellaneous Chores
+
+* add install instruction ([6ca64e5](https://www.github.com/brokeyourbike/http-client/commit/6ca64e58be489c27427460383b0595287fcf5382))
+
 ## 1.0.0 (2021-10-19)
 
 
