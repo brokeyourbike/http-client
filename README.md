@@ -8,5 +8,17 @@
 
 Http client interface and supporting trait
 
+## Usage
+
+```php
+use BrokeYourBike\HttpClient\HttpClientInterface;
+use BrokeYourBike\HttpClient\HttpClientTrait;
+
+class ApiClient implements HttpClientInterface
+{
+    use HttpClientTrait;
+}
+```
+
 ## License
 [Mozilla Public License v2.0](https://github.com/brokeyourbike/http-client/blob/main/LICENSE)
