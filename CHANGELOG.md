@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.2](https://www.github.com/brokeyourbike/http-client/compare/v1.0.1...v1.0.2) (2021-10-19)
+
+
+### Miscellaneous Chores
+
+* rearrange badges ([38d7a39](https://www.github.com/brokeyourbike/http-client/commit/38d7a391f473025c1c9031455c9e046c1bdba60d))
+
 ### [1.0.1](https://www.github.com/brokeyourbike/http-client/compare/v1.0.0...v1.0.1) (2021-10-19)
 
 
