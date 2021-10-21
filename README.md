@@ -5,8 +5,8 @@
 [![License: MPL-2.0](https://img.shields.io/badge/license-MPL--2.0-purple.svg)](https://github.com/brokeyourbike/http-client-php/blob/main/LICENSE)
 
 [![ci](https://github.com/brokeyourbike/http-client-php/actions/workflows/ci.yml/badge.svg)](https://github.com/brokeyourbike/http-client-php/actions/workflows/ci.yml)
+[![Maintainability](https://api.codeclimate.com/v1/badges/b06e5132dfa698a20769/maintainability)](https://codeclimate.com/github/brokeyourbike/http-client-php/maintainability)
 [![codecov](https://codecov.io/gh/brokeyourbike/http-client-php/branch/main/graph/badge.svg?token=ImcgnxzGfc)](https://codecov.io/gh/brokeyourbike/http-client-php)
-[![Type Coverage](https://shepherd.dev/github/brokeyourbike/http-client-php/coverage.svg)](https://shepherd.dev/github/brokeyourbike/http-client-php)
 
 Http client interface and supporting trait
 
