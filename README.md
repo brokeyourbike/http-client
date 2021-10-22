@@ -1,12 +1,12 @@
 # http-client
 
 [![Latest Stable Version](https://img.shields.io/github/v/release/brokeyourbike/http-client-php)](https://github.com/brokeyourbike/http-client-php/releases)
-[![Total Downloads](https://poser.pugx.org/brokeyourbike/http-client-php/downloads)](https://packagist.org/packages/brokeyourbike/http-client-php)
+[![Total Downloads](https://poser.pugx.org/brokeyourbike/http-client/downloads)](https://packagist.org/packages/brokeyourbike/http-client)
 [![License: MPL-2.0](https://img.shields.io/badge/license-MPL--2.0-purple.svg)](https://github.com/brokeyourbike/http-client-php/blob/main/LICENSE)
 
-[![ci](https://github.com/brokeyourbike/http-client-php/actions/workflows/ci.yml/badge.svg)](https://github.com/brokeyourbike/http-client-php/actions/workflows/ci.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/b06e5132dfa698a20769/maintainability)](https://codeclimate.com/github/brokeyourbike/http-client-php/maintainability)
-[![codecov](https://codecov.io/gh/brokeyourbike/http-client-php/branch/main/graph/badge.svg?token=ImcgnxzGfc)](https://codecov.io/gh/brokeyourbike/http-client-php)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/b06e5132dfa698a20769/test_coverage)](https://codeclimate.com/github/brokeyourbike/http-client-php/test_coverage)
+[![tests](https://github.com/brokeyourbike/http-client-php/actions/workflows/tests.yml/badge.svg)](https://github.com/brokeyourbike/http-client-php/actions/workflows/tests.yml)
 
 Http client interface and supporting trait
 
