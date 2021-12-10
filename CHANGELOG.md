@@ -1,5 +1,19 @@
 # Changelog
 
+### [1.0.3](https://www.github.com/brokeyourbike/http-client-php/compare/v1.0.2...v1.0.3) (2021-12-10)
+
+
+### Bug Fixes
+
+* allow to use guzzle 6 ([04a7caa](https://www.github.com/brokeyourbike/http-client-php/commit/04a7caa047e007ce1e53e5d05c16e47af090fea4))
+
+
+### Miscellaneous Chores
+
+* update badges ([5bb266c](https://www.github.com/brokeyourbike/http-client-php/commit/5bb266c0cb3623756dec5903e989353bf6935d07))
+* update badges ([feba6b6](https://www.github.com/brokeyourbike/http-client-php/commit/feba6b676d82e9bfad0e9cf0c04390bd0df6ed9f))
+* update repo name ([229ad13](https://www.github.com/brokeyourbike/http-client-php/commit/229ad130f99a8acb0084d257c1f1bc6b42ae6104))
+
 ### [1.0.2](https://www.github.com/brokeyourbike/http-client/compare/v1.0.1...v1.0.2) (2021-10-19)
 
 
