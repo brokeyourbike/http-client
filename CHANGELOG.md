@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.4](https://www.github.com/brokeyourbike/http-client-php/compare/v1.0.3...v1.0.4) (2021-12-10)
+
+
+### Bug Fixes
+
+* allow to use guzzle 6 or 7 ([c22795c](https://www.github.com/brokeyourbike/http-client-php/commit/c22795c066f87eb635d07eede14373b9acfdd675))
+
 ### [1.0.3](https://www.github.com/brokeyourbike/http-client-php/compare/v1.0.2...v1.0.3) (2021-12-10)
 
 
