@@ -23,7 +23,7 @@
     "minimum-stability": "stable",
     "require": {
         "php": "^7.4|^8.0",
-        "guzzlehttp/guzzle": "^6"
+        "guzzlehttp/guzzle": "^6|^7"
     },
     "require-dev": {
         "bamarni/composer-bin-plugin": "^1.4",
