@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.0.5](https://www.github.com/brokeyourbike/http-client-php/compare/v1.0.4...v1.0.5) (2023-05-14)
+
+
+### Miscellaneous Chores
+
+* allow bin ([146910f](https://www.github.com/brokeyourbike/http-client-php/commit/146910f2afeb01dcce8e76ebf36b2cc95a0ca4f5))
+* badges ([4695da8](https://www.github.com/brokeyourbike/http-client-php/commit/4695da8c88a848a2dc49a5194a867127e2b55b0f))
+
 ### [1.0.4](https://www.github.com/brokeyourbike/http-client-php/compare/v1.0.3...v1.0.4) (2021-12-10)
 
 
