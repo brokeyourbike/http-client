@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.6](https://www.github.com/brokeyourbike/http-client-php/compare/v1.0.5...v1.0.6) (2023-05-20)
+
+
+### Miscellaneous Chores
+
+* button ([009631a](https://www.github.com/brokeyourbike/http-client-php/commit/009631a2886ebab6b126af1ec1945641b7646f85))
+
 ### [1.0.5](https://www.github.com/brokeyourbike/http-client-php/compare/v1.0.4...v1.0.5) (2023-05-14)
 
 
